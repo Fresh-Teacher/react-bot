@@ -7551,27 +7551,23 @@
                     return (0, f.jsxs)("div", {
                         id: "introsection",
                         children: [(0, f.jsxs)("h1", {
-                            children: ["Introducing The Fresh Bot", (0, f.jsx)(w, {
-                                response: " - The Ultimate AI Assistant"
+                            children: ["", (0, f.jsx)(w, {
+                                response: " Welcome to The Fresh Bot 🤖"
                             })]
                         }), (0, f.jsx)("h2", {
-                            children: "A cutting-edge AI-powered app that provides instant answers to any question you may have. With the Fresh Bot, you'll never be left searching for answers again. Whether you need information for school or work, or just want to know the latest news, the Fresh Bot has you covered."
+                            // children: ""
                         }), (0, f.jsxs)("p", {
-                            children: ["Features:", (0, f.jsxs)("ul", {
+                            children: ["Previous Chats:", (0, f.jsxs)("ul", {
                                 children: [(0, f.jsx)("li", {
-                                    children: "Instant answers to any question."
+                                    children: "Compose a speech between 10,000 to 10,000 words congratulating learners for their good performance in UNEB."
                                 }), (0, f.jsx)("li", {
-                                    children: "Deep learning technology that improves with usage."
-                                }), (0, f.jsx)("li", {
-                                    children: "Continuously Learning."
-                                }), (0, f.jsx)("li", {
-                                    children: "User-friendly interface."
-                                }), (0, f.jsx)("li", {
-                                    children: "Available 24/7"
+                                    children: "Solve 5x2 + 6x + 1 = 0 and explain your answer."
+                                }),  (0, f.jsx)("li", {
+                                    children: "Write detailed lesson notes in about the Ottoman Empire and then explain the problems it faced in the 19th Century."
                                 })]
                             })]
                         }), (0, f.jsx)("p", {
-                            children: "The Fresh Bot was created by Fresh Teacher to assist teachers and students during their academic research. Please utilise it when it is still free of charge!"
+                            children: ""
                         })]
                     })
                 };
