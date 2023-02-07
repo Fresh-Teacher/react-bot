@@ -7559,7 +7559,7 @@
                         }), (0, f.jsxs)("p", {
                             children: ["Previous Chats:", (0, f.jsxs)("ul", {
                                 children: [(0, f.jsx)("li", {
-                                    children: "Compose a speech between 10,000 to 10,000 words congratulating learners for their good performance in UNEB."
+                                    children: "Compose a speech between 1,000 to 5,000 words congratulating learners for their good performance in UNEB."
                                 }), (0, f.jsx)("li", {
                                     children: "Solve 5x2 + 6x + 1 = 0 and explain your answer."
                                 }),  (0, f.jsx)("li", {
